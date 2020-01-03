@@ -10,10 +10,7 @@ jupyterlab = "*"
 torch = "*"
 torchvision = "*"
 comet-ml = "*"
-<<<<<<< HEAD
 pandas = "*"
-=======
->>>>>>> c981aff01a22622e1568bffb9675536a33f3dffd
 
 [requires]
 python_version = "3.6"
