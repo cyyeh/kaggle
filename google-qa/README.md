@@ -12,3 +12,6 @@
   - [Bert Baseline for NQ](https://github.com/google-research/language/tree/master/language/question_answering/bert_joint)
   - [進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
   - [ELMO, BERT, GPT](https://www.youtube.com/watch?v=UYPa347-DdE)
+- ALBERT
+  - [GitHub repo](https://github.com/kpe/bert-for-tf2)
+  - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
