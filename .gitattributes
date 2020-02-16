@@ -1,0 +1,6 @@
+google-qa/simplified-nq-test.jsonl.zip filter=lfs diff=lfs merge=lfs -text
+google-qa/simplified-nq-train.jsonl.zip filter=lfs diff=lfs merge=lfs -text
+google-qa/simplified-nq-test.csv filter=lfs diff=lfs merge=lfs -text
+google-qa/simplified-nq-train.csv filter=lfs diff=lfs merge=lfs -text
+google-qa/simplified-nq-test.csv.zip filter=lfs diff=lfs merge=lfs -text
+google-qa/simplified-nq-train.csv.zip filter=lfs diff=lfs merge=lfs -text
